@@ -10,3 +10,5 @@ push to all branche
 modification to be commited on feb 1 
 
 this is a forgoten modification added by amend command without creating a new commit 
+
+new add
