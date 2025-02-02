@@ -6,3 +6,5 @@ new line added at 922
 
 after stash modification
 testing stash command
+
+new modif
